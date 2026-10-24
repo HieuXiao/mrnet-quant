@@ -1,0 +1,9 @@
+# Training, export and quantization (workstation). Versions used in the paper.
+torch==2.11.0
+torchvision==0.26.0
+onnx==1.23.2
+onnxruntime==1.31.0
+onnxconverter-common==1.16.0
+numpy==2.5.2
+scikit-learn==1.9.1
+matplotlib==3.11.2

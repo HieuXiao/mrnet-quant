@@ -1,0 +1,14 @@
+# MRNet data and anything derived from it must not be published (Stanford research use agreement)
+data/
+runs/
+*.npy
+*.npz
+*.pt
+*.pth
+*.onnx
+# generated
+tables/
+__pycache__/
+*.pyc
+.venv/
+venv/
